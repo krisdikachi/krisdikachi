@@ -1,16 +1,15 @@
-## Hi there 👋
+👋 Hi, I'm Onyedikachi Nwuko — a passionate software developer and aspiring AI engineer from Nigeria.
 
-<!--
-**krisdikachi/krisdikachi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 I specialize in building full-stack web apps using Django and React/Next.js, and I'm currently focused on applying AI to solve real-world problems.
 
-Here are some ideas to get you started:
+🛠️ Founder at AndroTechlist, where I build useful products like AndroVehicleTrack — a verified EV station locator
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 I'm also exploring AI-driven content creation, including faceless YouTube automation, chat assistants, and generative tools.
+
+🔍 Interests:
+- AI APIs & LLMs (OpenAI, vector search, summarization)
+- Scalable backend development (Django + PostgreSQL + Supabase)
+- Frontend frameworks (Next.js, Tailwind CSS)
+- Developer tools, automation, and rapid prototyping
+
+📫 Let's connect: [LinkedIn](https://www.linkedin.com/in/nwuko-onyedikachi) | andrewnwuko@gmail.com
