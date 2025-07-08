@@ -15,5 +15,5 @@
 📫 Let's connect: [LinkedIn](https://www.linkedin.com/in/nwuko-onyedikachi) | andrewnwuko@gmail.com
 
 
-https://capsule-render.vercel.app/api?type=waving&height=498&text=Androtechlist&section=header&textBg=false&fontColor=000042&fontSize=49&fontAlign=40&fontAlignY=65&animation=fadeIn&stroke=000042&strokeWidth=1&desc=Automated%2,%20Experienced%20Web%20Developer&descAlign=67&descAlignY=73
+
 
