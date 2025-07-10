@@ -1,3 +1,4 @@
+![krisdikachi (Androtechlist) · GitHub](https://github.com/user-attachments/assets/c47bb7b2-582e-4399-8020-3e0324049622)
 👋 Hi, I'm Onyedikachi Nwuko — a passionate software developer and aspiring AI engineer from Nigeria.
 
 🚀 I specialize in building full-stack web apps using Django and React/Next.js, and I'm currently focused on applying AI to solve real-world problems.
