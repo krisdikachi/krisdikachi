@@ -15,6 +15,48 @@
 
 📫 Let's connect: [LinkedIn](https://www.linkedin.com/in/nwuko-onyedikachi) | andrewnwuko@gmail.com
 
+---
 
+## 📚
 
+<!-- Project Banner -->
+<p align="center">
+  <a href="https://github.com/krisdikachi/krisdikachi">
+    <!-- You can create a banner with tools like Canva -->
+    <img src="https://github.com/user-attachments/assets/c47bb7b2-582e-4399-8020-3e0324049622" alt="Project Banner">
+  </a>
+</p>
 
+<!-- Badges -->
+<p align="center">
+  <!-- GitHub Actions Build Status -->
+  <a href="https://github.com/krisdikachi/krisdikachi/actions">
+    <img src="https://github.com/krisdikachi/krisdikachi/actions/workflows/main.yml/badge.svg" alt="Build Status">
+  </a>
+  <!-- Codecov Coverage -->
+  <a href="https://codecov.io/gh/krisdikachi/krisdikachi">
+    <img src="https://codecov.io/gh/krisdikachi/krisdikachi/branch/main/graph/badge.svg" alt="Code Coverage"/>
+  </a>
+  <!-- NPM Version (example) -->
+  <a href="https://www.npmjs.com/package/your-package">
+    <img src="https://img.shields.io/npm/v/your-package.svg" alt="NPM Version">
+  </a>
+  <!-- License -->
+  <a href="LICENSE">
+    <img src="https://img.shields.io/github/license/krisdikachi/krisdikachi.svg" alt="License">
+  </a>
+  <!-- Twitter Follow -->
+  <a href="https://twitter.com/NwukoATL">
+    <img src="https://img.shields.io/twitter/follow/NwukoATL?style=social&logo=twitter" alt="Follow on Twitter">
+  </a>
+</p>
+
+## 🤝 Contributing
+
+Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**. Please see `CONTRIBUTING.md` for details.
+
+---
+
+## 📜 License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
