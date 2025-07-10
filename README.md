@@ -1,4 +1,4 @@
-![krisdikachi (Androtechlist) · GitHub](https://github.com/user-attachments/assets/c47bb7b2-582e-4399-8020-3e0324049622)
+
 👋 Hi, I'm Onyedikachi Nwuko — a passionate software developer and aspiring AI engineer from Nigeria.
 
 🚀 I specialize in building full-stack web apps using Django and React/Next.js, and I'm currently focused on applying AI to solve real-world problems.
@@ -19,13 +19,7 @@
 
 ## 📚
 
-<!-- Project Banner -->
-<p align="center">
-  <a href="https://github.com/krisdikachi/krisdikachi">
-    <!-- You can create a banner with tools like Canva -->
-    <img src="https://github.com/user-attachments/assets/c47bb7b2-582e-4399-8020-3e0324049622" alt="Project Banner">
-  </a>
-</p>
+
 
 <!-- Badges -->
 <p align="center">
@@ -37,7 +31,7 @@
   <a href="https://codecov.io/gh/krisdikachi/krisdikachi">
     <img src="https://codecov.io/gh/krisdikachi/krisdikachi/branch/main/graph/badge.svg" alt="Code Coverage"/>
   </a>
-  <!-- NPM Version (example) -->
+  
   <a href="https://www.npmjs.com/package/your-package">
     <img src="https://img.shields.io/npm/v/your-package.svg" alt="NPM Version">
   </a>
