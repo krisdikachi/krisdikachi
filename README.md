@@ -1,5 +1,5 @@
 
-👋 Hi, I'm Onyedikachi Nwuko — a passionate software developer and aspiring AI engineer from Nigeria.
+👋 Hi, I'm Onyedikachi Nwuko, a passionate software developer building @Authnpass from Nigeria.
 
 🚀 I specialize in building full-stack web apps using Django and React/Next.js, and I'm currently focused on applying AI to solve real-world problems.
 
@@ -12,6 +12,15 @@
 - Scalable backend development (Django + PostgreSQL + Supabase)
 - Frontend frameworks (Next.js, Tailwind CSS)
 - Developer tools, automation, and rapid prototyping
+
+
+
+
+
+
+
+
+
 
 📫 Let's connect: [LinkedIn](https://www.linkedin.com/in/nwuko-onyedikachi) | andrewnwuko@gmail.com
 
